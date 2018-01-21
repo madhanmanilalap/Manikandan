@@ -8,6 +8,7 @@ printf("%d",a);
 if(a<=7)
 {
 printf("Positive");
+else
 if(a=0)
 {
 printf("Zero");
